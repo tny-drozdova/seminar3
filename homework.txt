@@ -3,3 +3,5 @@ This is the homework 1
 The commit for the first command *git commit -a".*
 
 This is the commit for the next command *git commit -am w/message*
+
+This is the comments for the difference displaying.
