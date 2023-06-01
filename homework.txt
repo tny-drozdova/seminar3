@@ -1,0 +1,4 @@
+This is the homework 1
+
+The commit for the first command *git commit -a".
+
