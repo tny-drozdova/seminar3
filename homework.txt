@@ -15,3 +15,14 @@ One mre time! Trying to make commit with Nano!!!
 
 THis is the third commit with nano!!!
 
+
+THis is good to rememeber:
+
+to commit with Nano, i need to do the following:
+
+1. Enter the headline
+2. Click Up plus X
+3. Click Yes
+4. Click Return button!
+
+
