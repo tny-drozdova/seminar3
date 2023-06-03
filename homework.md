@@ -40,7 +40,12 @@ to commit with Nano, i need to do the following:
 
     git log
 
-## ## Saving the command for displaying the short log records: 
+## Saving the command for displaying the short log records: 
 
     git log --oneline
 
+## Saving the command for displaying the short log records with branches: 
+
+    git log --oneline --graph
+
+    
