@@ -1,10 +1,16 @@
 # This is the homework 1
 
-## The commit for the first command **git commit -a".**
+## The commit for the first command 
 
-## This is the commit for the next command **git commit -am w/message**
+    git commit -a
 
-## This is the comments for the difference displaying.
+## This is the commit for the next command 
+
+    git commit -am w/message
+
+## This is the comments for the difference displaying:
+
+    git diff
 
 ## This is the comments for the final commit:
 
@@ -14,10 +20,14 @@
 
 ## One more time! Trying to make commit with Nano!!!
 
+_Trying to understand how saving a commit works with nano editor_
+
 ## This is the third commit with nano!!!
 
+_Verifying how saving a commit works with nano editor_
 
-## _This is good to rememeber:_ 
+
+# _This is good to rememeber:_ 
 
 to commit with Nano, i need to do the following:
 
