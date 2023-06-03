@@ -36,7 +36,11 @@ to commit with Nano, i need to do the following:
 3. Click Yes
 4. Click Return button!
 
-## Saving the command for displaying the log
+## Saving the command for displaying the default log:
 
     git log
-    
+
+## ## Saving the command for displaying the short log records: 
+
+    git log --oneline
+
