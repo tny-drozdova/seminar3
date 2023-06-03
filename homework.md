@@ -35,3 +35,8 @@ to commit with Nano, i need to do the following:
 2. Click Up plus X
 3. Click Yes
 4. Click Return button!
+
+## Saving the command for displaying the log
+
+    git log
+    
