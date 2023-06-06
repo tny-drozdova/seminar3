@@ -48,4 +48,7 @@ to commit with Nano, i need to do the following:
 
     git log --oneline --graph
 
-    
+
+# Homework number 2
+
+Creating new branch and starting first branching.
