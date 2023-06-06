@@ -62,8 +62,8 @@ Same updatees will be addet to master and branch2
 
 *I updated the content to remove repeted copy from the previous commit.* 
 
-## Updating master for the second commit
+_**I'm removing two lines above as they are repeating**_
 
-Same updatees will be addet to master and branch2.
+
 
 
