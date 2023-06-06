@@ -52,3 +52,6 @@ to commit with Nano, i need to do the following:
 # Homework number 2
 
 Creating new branch and starting first branching.
+# Homework 2
+
+Creating the first record for new branch.
