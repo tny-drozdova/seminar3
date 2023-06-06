@@ -55,3 +55,9 @@ Creating new branch and starting first branching.
 # Homework 2
 
 Creating the first record for new branch.
+
+
+## Updating master for the second commit
+
+Same updatees will be addet to master and branch2
+
