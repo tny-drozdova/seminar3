@@ -55,4 +55,8 @@ Creating new branch and starting first branching.
 
 *I updated the content to remove repeted copy from the previous commit.* 
 
+## Updating master for the second commit
+
+Same updatees will be addet to master and branch2.
+
 
