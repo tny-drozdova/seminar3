@@ -69,6 +69,13 @@ _**I'm removing two lines above as they are repeating**_
 
 _This is itallic line just for the content as well_
 
+### This is a wrong copy and it needs to be removed during the next merge:
+
+-Wrong copy
+
+-wrong copy2
+
+-wrong copy 3
 
 
 
