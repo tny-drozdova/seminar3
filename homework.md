@@ -52,7 +52,6 @@ to commit with Nano, i need to do the following:
 # Homework number 2
 
 Creating new branch and starting first branching.
-# Homework 2
 
 Creating the first record for new branch.
 
@@ -60,4 +59,7 @@ Creating the first record for new branch.
 ## Updating master for the second commit
 
 Same updatees will be addet to master and branch2
+
+*I updated the content to remove repeted copy from the previous commit.* 
+
 
