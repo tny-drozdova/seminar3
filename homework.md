@@ -63,6 +63,11 @@ Same updatees will be addet to master and branch2
 *I updated the content to remove repeted copy from the previous commit.* 
 
 _**I'm removing two lines above as they are repeating**_
+## Updating the copy for the third commit!!!
+
+**This is a bold line just for the content**
+
+_This is itallic line just for the content as well_
 
 
 
