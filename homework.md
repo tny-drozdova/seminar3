@@ -1,4 +1,9 @@
-# This is the homework 1
+### This is the homework 1
+
+# Git instructions
+
+![Git logo](git1.png)
+
 
 ## The commit for the first command 
 
@@ -69,17 +74,7 @@ _**I'm removing two lines above as they are repeating**_
 
 _This is itallic line just for the content as well_
 
-<<<<<<< HEAD
-### This is a wrong copy and it needs to be removed during the next merge:
-
--Wrong copy
-
--wrong copy2
-
--wrong copy 3
-=======
 # !!!This is the final branch for today and this copy will be saved for master branch!!!
->>>>>>> branch_final_fix
 
 The end of the homework 2 :)
 
