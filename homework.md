@@ -83,10 +83,5 @@ The end of the homework 2 :)
 
 Remote repository is used for keeping files on a remote space.
 
-<<<<<<< HEAD
 ### How to connect locat and remote repositories
-=======
-
-New changes made by a collegue!!!!!!!!!!!
->>>>>>> 1ac3e795f381fc7b3b94dd9f9c0fc371609fe9ab
 
