@@ -81,4 +81,5 @@ The end of the homework 2 :)
 
 ## Remote repository
 
+Remote repository is used for keeping files on a remote space.
 
